@@ -5,4 +5,4 @@ My final project in university. Heart disease, brain tumor, breast cancer predic
 2) Brain tumor classification using MR images.
 3) Breast cancer classification using description values of a potential cancer node as independent parameters (input) and retrieving the dependent solution as malicious or benign.
 
-collaborator: github.com/@berktunc008
+collaborator: github.com/berktunc008
